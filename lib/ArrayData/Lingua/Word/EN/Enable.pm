@@ -1,4 +1,4 @@
-package ArrayData::Word::EN::Enable;
+package ArrayData::Lingua::Word::EN::Enable;
 
 use strict;
 use Role::Tiny::With;
@@ -15,7 +15,7 @@ with 'Role::TinyCommons::Collection::PickItems::RandomSeekLines'; # add pick_ite
 # STATS
 
 1;
-# ABSTRACT: Indonesian words from Kamus Besar Bahasa Indonesia
+# ABSTRACT: The Enable word list (English)
 
 =head1 DESCRIPTION
 
